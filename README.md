@@ -2,7 +2,7 @@
 
 <h3 align="center">AI Engineer student from ITMO University.</h3></h1>
   
-![](https://github.com/zajtca/zajtca/gif_1762825669.gif)
+![](https://github.com/zajtca/zajtca/blob/main/gif_1762825669.gif)
 
 <!--
 **zajtca/zajtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
