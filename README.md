@@ -1,7 +1,10 @@
 <h1 align="center">Hi! I'm <a href="https://t.me/zajtca" target="_blank">Max</a>!
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">AI Engineer student from ITMO University.</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05ADF7&width=435&lines=Hi!+I'm+%3Ca+href%3D%22https%3A%2F%2Ft.me%2Fzajtca%22+target%3D%22_blank%22%3EMax%3C%2Fa%3E!" alt="Typing SVG" /></a>
+
 <!--
 **zajtca/zajtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
