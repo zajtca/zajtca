@@ -2,7 +2,7 @@
 
 <h3 align="center">AI Engineer student from ITMO University.</h3></h1>
   
-<div class="tenor-gif-embed" data-postid="17482706" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/mr-robot-elliot-alderson-rami-malek-hello-friend-hello-there-gif-17482706">Mr Robot Elliot Alderson GIF</a>from <a href="https://tenor.com/search/mr+robot-gifs">Mr Robot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://tenor.com/ru/view/mr-robot-elliot-alderson-rami-malek-hello-friend-hello-there-gif-17482706)
 
 <!--
 **zajtca/zajtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
