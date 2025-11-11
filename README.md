@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&repeat=false&random=true&width=435&lines=Hi%2C+my+name+is+Max!" alt="Typing SVG" /></a>
 
-<h3 align="center">AI Engineer student from ITMO University.</h3>
+<h3 align="center">AI Engineer student from ITMO University.</h3></h1>
   
 <div class="tenor-gif-embed" data-postid="17482706" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/mr-robot-elliot-alderson-rami-malek-hello-friend-hello-there-gif-17482706">Mr Robot Elliot Alderson GIF</a>from <a href="https://tenor.com/search/mr+robot-gifs">Mr Robot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
