@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&random=true&width=435&lines=hi!+my+name+is+max!;i'm+a+student+of+ai+engineering+at+ITMO+University" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&random=true&width=600&lines=hi!+my+name+is+max!;i'm+a+student+of+ai+engineering+at+ITMO+University)](https://git.io/typing-svg)
 ![](https://github.com/zajtca/zajtca/blob/main/mr-robot-elliot-alderson.gif)
 
 <!--
