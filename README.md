@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&random=true&width=600&lines=hi!+my+name+is+max!;i'm+a+student+of+ai+engineering+at+ITMO+University)](https://git.io/typing-svg)
-![](https://github.com/zajtca/zajtca/blob/main/mr-robot-elliot-alderson.gif)
-
+<div class="blokolor">
+  >[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&random=true&width=600&lines=hi!+my+name+is+max!;i'm+a+student+of+ai+engineering+at+ITMO+University)](https://git.io/typing-svg)
+  ![](https://github.com/zajtca/zajtca/blob/main/mr-robot-elliot-alderson.gif)
+</div>
 <!--
 **zajtca/zajtca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
