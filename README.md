@@ -1,4 +1,5 @@
-<h1 align="center">Hi! I'm <a href="https://t.me/zajtca" target="_blank">Max</a>!
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&repeat=false&random=true&width=435&lines=Hi%2C+my+name+is+Max!" alt="Typing SVG" /></a>
+
 <h3 align="center">AI Engineer student from ITMO University.</h3>
   
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
