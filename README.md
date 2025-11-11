@@ -1,6 +1,4 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&repeat=false&random=true&width=435&lines=Hi%2C+my+name+is+Max!" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=05ADF7&repeat=false&random=true&width=435&lines=AI+Engineer+student+from+ITMO+University" alt="Typing SVG" /></a>
   
 ![](https://github.com/zajtca/zajtca/blob/main/gif_1762825669.gif)
 
